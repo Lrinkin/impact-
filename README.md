@@ -1,8 +1,8 @@
 Setup & Installation
 1. Clone the Repository
 Bash
-git clone [https://github.com/](https://github.com/)<YOUR_USERNAME>/<YOUR_REPOSITORY_NAME>.git
-cd <YOUR_REPOSITORY_NAME>
+git clone [https://github.com/](https://github.com [https://github.com/Lrinkin/impact.git]
+cd (https://github.com/Lrinkin/impact.git)
 2. Set Up Virtual Environment
 Bash
 python3 -m venv venv
